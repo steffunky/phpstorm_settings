@@ -4,10 +4,11 @@
     <property name="created">2018-06-06T09:10:17</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2018-06-06T09:51:52</property>
+    <property name="modified">2018-06-07T10:23:59</property>
     <property name="originalScheme">FreshCut (rainglow)</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="e9ee00" />
@@ -830,8 +831,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="850e00" />
         <option name="EFFECT_COLOR" value="ff5370" />
-        <option name="ERROR_STRIPE_COLOR" value="ff5370" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -3453,8 +3454,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="447100" />
         <option name="EFFECT_COLOR" value="4ecdc4" />
-        <option name="ERROR_STRIPE_COLOR" value="4ecdc4" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
