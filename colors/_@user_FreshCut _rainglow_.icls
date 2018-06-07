@@ -4,14 +4,14 @@
     <property name="created">2018-06-06T09:10:17</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2018-06-07T10:23:59</property>
+    <property name="modified">2018-06-07T16:46:46</property>
     <property name="originalScheme">FreshCut (rainglow)</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="e9ee00" />
+    <option name="ADDED_LINES_COLOR" value="9bcd67" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
     <option name="CARET_COLOR" value="f8f8f2" />
     <option name="CARET_ROW_COLOR" value="373838" />
@@ -55,14 +55,14 @@
     <option name="SELECTION_BACKGROUND" value="8097" />
     <option name="SELECTION_FOREGROUND" value="ffffff" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
-    <option name="TEARLINE_COLOR" value="393a3a" />
+    <option name="TEARLINE_COLOR" value="6c5869" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="2f3030" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3c3d3d" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="616161" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="5a4036" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="ab7967" />
     <option name="WHITESPACES" value="393a3a" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="393a3a" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="835b7f" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
