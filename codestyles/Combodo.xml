@@ -2,7 +2,7 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,style" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
@@ -28,6 +28,8 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="RIGHT_MARGIN" value="0" />
+    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
     <option name="BRACE_STYLE" value="5" />
     <option name="ELSE_ON_NEW_LINE" value="true" />
