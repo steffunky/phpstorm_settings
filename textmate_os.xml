@@ -1,5 +1,35 @@
 <application>
   <component name="TextMateSettings">
+    <option name="themesMapping">
+      <map>
+        <entry key="All hallow's eve" value="All Hallow's Eve" />
+        <entry key="Arc Dark" value="Mac Classic" />
+        <entry key="Atom One Dark" value="Mac Classic" />
+        <entry key="Atom One Light" value="Mac Classic" />
+        <entry key="Blackboard" value="Blackboard" />
+        <entry key="Cobalt" value="Cobalt" />
+        <entry key="Darcula" value="Darcula" />
+        <entry key="Default" value="Mac Classic" />
+        <entry key="Dracula" value="Mac Classic" />
+        <entry key="GitHub (Material)" value="Mac Classic" />
+        <entry key="High сontrast" value="Mac Classic" />
+        <entry key="Material Darker" value="Mac Classic" />
+        <entry key="Material Deep Ocean" value="Mac Classic" />
+        <entry key="Material Lighter" value="Mac Classic" />
+        <entry key="Material Oceanic" value="Mac Classic" />
+        <entry key="Material Palenight" value="Mac Classic" />
+        <entry key="Material Solarized Dark" value="Mac Classic" />
+        <entry key="Material Solarized Light" value="Mac Classic" />
+        <entry key="Monokai" value="Monokai" />
+        <entry key="Monokai Pro" value="Mac Classic" />
+        <entry key="Railscasts" value="RailsCasts" />
+        <entry key="Solarized Dark" value="Mac Classic" />
+        <entry key="Solarized Light" value="Mac Classic" />
+        <entry key="Twilight" value="Twilight" />
+        <entry key="VibrantInk" value="VibrantInk" />
+        <entry key="WarmNeon" value="Mac Classic" />
+      </map>
+    </option>
     <option name="bundles">
       <list>
         <BundleConfigBean>

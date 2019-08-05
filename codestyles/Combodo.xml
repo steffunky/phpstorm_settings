@@ -1,4 +1,5 @@
 <code_scheme name="Combodo" version="173">
+  <option name="RIGHT_MARGIN" value="0" />
   <HTMLCodeStyleSettings>
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,style" />
   </HTMLCodeStyleSettings>
@@ -21,6 +22,9 @@
     <option name="XML_TEXT_WRAP" value="0" />
     <option name="XML_KEEP_WHITE_SPACES_INSIDE_CDATA" value="true" />
   </XML>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="JavaScript">
     <option name="SPACE_AROUND_ADDITIVE_OPERATORS" value="false" />
     <indentOptions>
