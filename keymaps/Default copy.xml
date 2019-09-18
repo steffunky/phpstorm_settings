@@ -1,8 +1,12 @@
 <keymap version="1" name="Default copy" parent="Default for XWin">
+  <action id="CodeCleanup">
+    <keyboard-shortcut first-keystroke="ctrl alt insert" />
+  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="ctrl numpad8" />
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="ctrl numpad2" />
   </action>
+  <action id="NewElementSamePlace" />
 </keymap>
