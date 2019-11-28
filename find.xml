@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../css/ui-lightness/jquery.scss [develop]'" />
+    <option name="defaultScopeName" value="File '.../css/ui-lightness/jquery.scss [develop]'" />
+    <option name="SEARCH_SCOPE" value="File '.../css/ui-lightness/jquery.scss [develop]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
