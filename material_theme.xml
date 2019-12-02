@@ -2,13 +2,12 @@
   <component name="MaterialThemeConfig">
     <option name="highlightColorEnabled" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="useMaterialFont2" value="true" />
     <option name="accentColor" value="42a5f5" />
     <option name="highlightColor" value="007de9" />
     <option name="selectedTheme" value="ARC_DARK" />
     <option name="userId" value="d78809f:1687b4e7ed1:-8000" />
-    <option name="version" value="4.5.1" />
+    <option name="version" value="4.10.0" />
   </component>
 </application>
