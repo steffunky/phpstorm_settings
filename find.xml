@@ -12,7 +12,7 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*.twig</mask>
-    <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
