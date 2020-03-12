@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Revert &quot;N°1986 - Fix regression introduced in b91183e9, creation form should never be read-only&quot;" />
+    <option name="defaultScopeName" value="Revert &quot;N°1986 - Fix regression introduced in b91183e9, creation form should never be read-only&quot;" />
+    <option name="SEARCH_SCOPE" value="Revert &quot;N°1986 - Fix regression introduced in b91183e9, creation form should never be read-only&quot;" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
