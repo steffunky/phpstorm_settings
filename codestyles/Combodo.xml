@@ -22,9 +22,6 @@
     <option name="XML_TEXT_WRAP" value="0" />
     <option name="XML_KEEP_WHITE_SPACES_INSIDE_CDATA" value="true" />
   </XML>
-  <editorconfig>
-    <option name="ENABLED" value="false" />
-  </editorconfig>
   <codeStyleSettings language="JavaScript">
     <option name="SPACE_AROUND_ADDITIVE_OPERATORS" value="false" />
     <indentOptions>
