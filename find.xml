@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,7 +14,7 @@
     <mask>*.css</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>*.twig</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
