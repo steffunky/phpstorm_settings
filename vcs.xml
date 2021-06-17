@@ -6,8 +6,13 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="steffunky" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Combodo/combodo-zip-bulk-export" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="/srv/http/itop-extensions" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
