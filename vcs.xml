@@ -15,6 +15,7 @@
     <option name="cloneParentDir" value="/srv/http/itop-extensions" />
   </component>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_TAG_NAMES" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />
