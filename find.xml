@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Revert &quot;N°3685 Greatly optimize SCSS rules to reduce compiled CSS file size (4.7Mo -&gt; 620ko)&quot;  This reverts commit e4f58b5b" />
+    <option name="defaultScopeName" value="Revert &quot;N°3685 Greatly optimize SCSS rules to reduce compiled CSS file size (4.7Mo -&gt; 620ko)&quot;  This reverts commit e4f58b5b" />
+    <option name="SEARCH_SCOPE" value="Revert &quot;N°3685 Greatly optimize SCSS rules to reduce compiled CSS file size (4.7Mo -&gt; 620ko)&quot;  This reverts commit e4f58b5b" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
