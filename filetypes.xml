@@ -4,8 +4,8 @@
       <mapping pattern="UnauthenticatedWebPage" type="AUTO_DETECTED" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="DashletStatsStatistics" type="PHP" />
-      <mapping pattern="_input-select" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern="_input-select" type="PLAIN_TEXT" />
       <mapping ext="mmp" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
