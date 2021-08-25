@@ -3,6 +3,8 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
     <mask>*.properties</mask>
@@ -14,8 +16,8 @@
     <mask>*.twig</mask>
     <mask>*.css</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
