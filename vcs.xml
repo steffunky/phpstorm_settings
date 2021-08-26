@@ -42,6 +42,14 @@
           <option name="url" value="https://github.com/Combodo/combodo-unauthenticated-forms" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Combodo/professional" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Combodo/appliance" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/srv/http/itop-extensions" />
