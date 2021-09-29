@@ -15,9 +15,9 @@
     <mask>*.mxml</mask>
     <mask>*.twig</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
