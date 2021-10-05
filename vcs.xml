@@ -74,9 +74,13 @@
           <option name="url" value="https://github.com/Combodo/job-rd-engineer" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Combodo/combodo-faq-to-log" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/srv/http" />
+    <option name="cloneParentDir" value="/srv/http/itop-extensions" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
