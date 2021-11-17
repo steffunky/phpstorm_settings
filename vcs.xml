@@ -82,6 +82,10 @@
           <option name="url" value="https://github.com/Combodo/combodo-faq-advanced" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Combodo/combodo-backoffice-darkmoon-theme/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/srv/http/itop-extensions" />
