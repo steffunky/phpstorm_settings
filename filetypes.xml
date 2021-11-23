@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="_alert-with-blocks.scss" type="AUTO_DETECTED" />
       <mapping pattern="UnauthenticatedWebPage" type="AUTO_DETECTED" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="DashletStatsStatistics" type="PHP" />
