@@ -98,6 +98,10 @@
           <option name="url" value="https://github.com/faizann24/XssPy" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Combodo/combodo-autodispatch-ticket" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/srv/http" />
