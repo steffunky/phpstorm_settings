@@ -106,9 +106,13 @@
           <option name="url" value="https://github.com/Combodo/combodo-kanban-view" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Combodo/itop-assign-to-me" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/srv/http" />
+    <option name="cloneParentDir" value="/srv/http/itop-extensions" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
