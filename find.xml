@@ -10,10 +10,10 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.twig</mask>
-    <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.css</mask>
   </component>
 </application>
