@@ -114,6 +114,10 @@
           <option name="url" value="https://github.com/Combodo/itop-communications" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Combodo/itop-global-requests-mgmt" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/srv/http/itop-extensions" />
