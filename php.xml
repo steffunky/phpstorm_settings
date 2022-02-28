@@ -7,17 +7,13 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php7" path_separator=":" version="7.4.22">
-          <additional_php_ini>/etc/php7/conf.d/xdebug.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php7" path_separator=":" version="7.4.27">
+          <additional_php_ini />
           <configuration_file>/etc/php7/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.0.4">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
@@ -52,7 +48,6 @@
             <extension name="sodium" />
             <extension name="standard" />
             <extension name="tokenizer" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
