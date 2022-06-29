@@ -1,7 +1,9 @@
 <application>
   <component name="DBNavigator.Application.Settings">
-    <enable-debug-mode value="false" />
-    <enable-developer-mode value="false" />
+    <debug-logging database-access="false" database-resource="false" />
+    <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
+    <miscellaneous dialog-sizing-reset="false" bulk-actions-enabled="false" alternative-parser-enabled="false" />
+    <developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
   <component name="DBNavigator.DefaultProject.Settings">
@@ -92,11 +94,11 @@
         <nulls-first value="true" />
         <max-sorting-columns value="4" />
       </sorting>
-      <tracking-columns>
-        <columnNames value="" />
+      <audit-columns>
+        <column-names value="" />
         <visible value="true" />
         <editable value="false" />
-      </tracking-columns>
+      </audit-columns>
     </dataset-grid-settings>
     <dataset-editor-settings>
       <text-editor-popup>
