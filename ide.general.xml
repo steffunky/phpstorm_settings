@@ -15,6 +15,9 @@
     <entry key="win.editor.thumb.darcula.fill.min" value="102" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.tree.ui.experimental" value="false" />
-    <entry key="ide.experimental.ui" value="false" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+    <entry key="editor.focus.mode.color.light" value="a2a2a2" />
+    <entry key="editor.focus.mode.color.dark" value="a2a2a2" />
   </component>
 </application>

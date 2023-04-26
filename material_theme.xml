@@ -1,7 +1,5 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="highlightColorEnabled" value="true" />
-    <option name="useMaterialFont" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
@@ -10,7 +8,7 @@
     <option name="highlightColor" value="007de9" />
     <option name="selectedTheme" value="ARC_DARK" />
     <option name="userId" value="d78809f:1687b4e7ed1:-8000" />
-    <option name="version" value="7.5.3" />
+    <option name="version" value="8.4.1" />
     <option name="showWhatsNew" value="false" />
   </component>
 </application>
