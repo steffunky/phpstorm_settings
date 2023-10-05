@@ -4,7 +4,7 @@
     <property name="created">2019-05-14T10:51:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2023-10-03T09:29:02</property>
+    <property name="modified">2023-10-05T09:45:19</property>
     <property name="originalScheme">Material Oceanic</property>
     <property name="partialSave">true</property>
   </metaInfo>
@@ -105,12 +105,6 @@
       <value>
         <option name="EFFECT_COLOR" value="c3cee3" />
         <option name="EFFECT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="33e5d" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT_CURRENT">
@@ -934,12 +928,6 @@
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="d1a075" />
-      </value>
-    </option>
-    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="4a4d50" />
-        <option name="ERROR_STRIPE_COLOR" value="4d6168" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
