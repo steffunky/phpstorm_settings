@@ -4,7 +4,7 @@
     <property name="created">2019-05-14T10:51:18</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2024-07-15T10:07:26</property>
+    <property name="modified">2024-07-16T09:20:39</property>
     <property name="originalScheme">Material Oceanic</property>
     <property name="partialSave">true</property>
   </metaInfo>
@@ -905,11 +905,11 @@
         <option name="BACKGROUND" value="607d8b" />
       </value>
     </option>
-    <option name="PHP_ALIAS_REFERENCE" baseAttributes="" />
-    <option name="PHP_CONSTANT" baseAttributes="" />
-    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="" />
-    <option name="PHP_PARAMETER" baseAttributes="" />
-    <option name="PHP_VAR" baseAttributes="" />
+    <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS" />
+    <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
+    <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
       <value>
         <option name="FOREGROUND" value="c70267" />
